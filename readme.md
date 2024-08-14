@@ -11,9 +11,6 @@
 演示地址：[https://gh.gitapp.cn](https://gh.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/java_gh
 
 ## 主要功能
 
